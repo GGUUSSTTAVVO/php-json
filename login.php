@@ -1,4 +1,4 @@
-<!-- /VALIDAÇÃO DE LOGIN -->
+<!-- /VALIDAÇÃO DE LOGIN1234 -->
 <?php
 
     // Verificando se estamos recebendo algum dado com $_REQUEST
